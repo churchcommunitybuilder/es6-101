@@ -16,12 +16,12 @@ work.
 Ok lets get started!
 
 ## Examples / Assignments
-   * [let &amp; const](Example 1/README.md#let--const)
-      * [Assignment](Example 1/README.md#assignment)
-   * [Arrow functions](Example 2/README.md#arrow-functions)
-      * [Assignment](Example 2/README.md#assignment)
-   * [Classes](Example 3/README.md#classes)
-   * [Deconstruction](Example 4/README.md#deconstruction)
-   * [Spread](Example 5/README.md#spread)
-   * [Import Export](Example 6/README.md#import-export)
-   * [Object short hands](Example 7/README.md#object-short-hands)
+   * [let &amp; const](Example_1/README.md#let--const)
+      * [Assignment](Example_1/README.md#assignment)
+   * [Arrow functions](Example_2/README.md#arrow-functions)
+      * [Assignment](Example_2/README.md#assignment)
+   * [Classes](Example_3/README.md#classes)
+   * [Deconstruction](Example_4/README.md#deconstruction)
+   * [Spread](Example_5/README.md#spread)
+   * [Import Export](Example_6/README.md#import-export)
+   * [Object short hands](Example_7/README.md#object-short-hands)
